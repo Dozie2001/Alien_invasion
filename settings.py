@@ -5,12 +5,7 @@ class Settings:
     def __init__(self):
         self.width = 1200
         self.height = 800
-        self.bg_color = (0, 255, 0)
+        self.bg_color = (230, 230, 230)
 
         #Ship settings:
         self.ship_settings = 1.5
-        
-
-
-    
-
